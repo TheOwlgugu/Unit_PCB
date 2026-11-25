@@ -1,0 +1,104 @@
+{
+  "name": "Unit_copy",
+  "owner_uuid": "e0984d4e463b4e2fbc9c689fa9770b8c",
+  "creator_uuid": "e0984d4e463b4e2fbc9c689fa9770b8c",
+  "created_at": "2026-11-25 19:53:35",
+  "updated_at": "2026-11-25 19:53:35",
+  "modifier_uuid": "e0984d4e463b4e2fbc9c689fa9770b8c",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "61aada65f6844d53",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "config": {
+    "defaultSheet": "61aada65f6844d53",
+    "settings": {
+      "UNIVERSAL": {
+        "dataType": "UNIVERSAL",
+        "data": {
+          "allowLibRename": true,
+          "defaultNetName": true,
+          "wireMultipleNet": true,
+          "netFlagCrossLayerConnection": true,
+          "netLabelCrossPageConnection": true,
+          "busGenerateNetClass": true,
+          "relevanceDisplayRow": "SINGLE",
+          "relevanceBelongSchPage": "NAME",
+          "relevanceLocation": "ZONE",
+          "multipartCrossLayer": true,
+          "nonElectronicAddIntoBom": false,
+          "nonElectronicUpdatePcb": false
+        }
+      }
+    }
+  },
+  "profile": {
+    "boards": {
+      "1b5d36bbf2eef30b": {
+        "uuid": "1b5d36bbf2eef30b",
+        "title": "Board1",
+        "zIndex": 1
+      }
+    },
+    "schematics": {
+      "7b98b3e94a0129bd": {
+        "uuid": "7b98b3e94a0129bd",
+        "name": "Unit",
+        "board": "1b5d36bbf2eef30b",
+        "source": "",
+        "version": "1793094425961",
+        "updateTime": 1793094425961
+      }
+    },
+    "sheets": {
+      "11b80463df9ef488": {
+        "uuid": "11b80463df9ef488",
+        "title": "P2",
+        "schematic_uuid": "7b98b3e94a0129bd",
+        "zIndex": 2,
+        "source": "",
+        "version": "1794027240612",
+        "updateTime": 1794027240612
+      },
+      "0e6139487d4f4c54": {
+        "uuid": "0e6139487d4f4c54",
+        "title": "p1",
+        "schematic_uuid": "7b98b3e94a0129bd",
+        "zIndex": 1,
+        "source": "",
+        "version": "1793954497741",
+        "updateTime": 1793954497741
+      }
+    },
+    "pcbs": {
+      "45da82dada208492": {
+        "uuid": "45da82dada208492",
+        "title": "UnitPCB",
+        "board": "1b5d36bbf2eef30b",
+        "zIndex": null,
+        "parent_uuid": "",
+        "source": "",
+        "version": "1794126848831",
+        "updateTime": 1794126848831
+      }
+    },
+    "panels": {
+      "2f0bf55fec6c3ad6": {
+        "uuid": "2f0bf55fec6c3ad6",
+        "title": "Panel1",
+        "zIndex": null
+      }
+    },
+    "blockSymbols": {},
+    "owner": {
+      "uuid": ""
+    }
+  }
+}
